@@ -1,11 +1,8 @@
 import os
-import sys
-import algorithm
-import image_processing
 
-sys.path.append("../auto_grader/")
-from auto_grader import auto_grader
-ag = auto_grader()
+from image_processing import image_processing
+import scoring
 
-image_processing.image_processing.set_squares()  # Analyze all squares, determine color and number, save gray images to image folder
+image_processing.start_recognition()
+scoring.start_scoring()
 os.system('pause')

@@ -1,7 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="231ac1df-864d-437a-a436-6ab6398b0eaf" name="Default Changelist" comment="" />
+    <list default="true" id="231ac1df-864d-437a-a436-6ab6398b0eaf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/31.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/34.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/35.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/36.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/37.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/37.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/38.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/39.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/40.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/41.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/41.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/42.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/42.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/43.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/43.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/44.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/44.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/45.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/46.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/46.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/47.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/48.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/49.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/49.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/50.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/51.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/51.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/52.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/52.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/53.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/53.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/54.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/54.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/55.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/55.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/56.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/57.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/58.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/58.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/59.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/59.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/60.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/61.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/61.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/62.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/62.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/63.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/63.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auto_grader/image/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/algorithm/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/algorithm/algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/scoring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/0.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/11.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/12.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/13.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/14.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/14.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/15.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/15.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/16.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/16.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/17.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/17.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/18.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/18.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/19.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/19.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/20.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/21.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/21.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/22.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/23.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/24.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/24.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/25.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/25.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/26.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/26.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/27.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/27.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/28.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/28.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/29.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/29.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/3.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/30.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/30.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/31.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/31.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/32.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/32.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/33.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/34.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/35.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/35.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/36.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/36.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/37.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/37.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/38.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/38.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/39.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/39.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/4.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/40.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/40.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/41.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/41.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/42.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/42.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/43.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/43.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/44.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/44.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/45.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/45.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/46.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/46.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/47.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/47.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/48.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/48.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/49.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/49.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/5.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/50.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/50.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/51.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/51.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/52.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/52.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/53.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/53.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/54.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/54.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/55.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/55.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/56.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/56.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/57.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/57.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/58.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/58.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/59.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/59.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/6.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/6.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/60.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/60.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/61.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/61.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/62.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/62.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/63.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/63.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/7.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/8.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/image_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image_processing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple_train/simple_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/simple_train/simple_train.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +146,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my_code/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_code/image_processing/image_processing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1039">
-              <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+            <state relative-caret-position="544">
+              <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -22,13 +170,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my_code/main.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/my_code/scoring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="145">
+              <caret line="152" column="32" lean-forward="true" selection-start-line="152" selection-start-column="32" selection-end-line="152" selection-end-column="32" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#1#11#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,6 +191,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -53,15 +204,23 @@
         <option value="$PROJECT_DIR$/my_code/grayscale.py" />
         <option value="$PROJECT_DIR$/my_code/algorithm/__init__.py" />
         <option value="$PROJECT_DIR$/my_code/image_processing/__init__.py" />
-        <option value="$PROJECT_DIR$/my_code/main.py" />
+        <option value="$PROJECT_DIR$/my_code_v2/scoring/__init__.py" />
+        <option value="$PROJECT_DIR$/my_code_v2/scoring/scoring.py" />
+        <option value="$PROJECT_DIR$/my_code_v2/recognition/__init__.py" />
+        <option value="$PROJECT_DIR$/my_code_v2/recognition/recognition.py" />
+        <option value="$PROJECT_DIR$/my_code_v2/main/main.py" />
+        <option value="$PROJECT_DIR$/my_code_v2/main/__init__.py" />
+        <option value="$PROJECT_DIR$/my_code_v2/main.py" />
         <option value="$PROJECT_DIR$/simple_train/simple_train.py" />
+        <option value="$PROJECT_DIR$/my_code/scoring/__init__.py" />
         <option value="$PROJECT_DIR$/my_code/image_processing/image_processing.py" />
+        <option value="$PROJECT_DIR$/my_code/main.py" />
+        <option value="$PROJECT_DIR$/my_code/scoring.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-17" />
-    <option name="y" value="28" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
     <option name="width" value="1890" />
     <option name="height" value="1032" />
   </component>
@@ -80,7 +239,7 @@
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="auto_grader" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
@@ -93,16 +252,6 @@
               <item name="my_code" type="462c0819:PsiDirectoryNode" />
               <item name="image_processing" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="read_picture" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
-              <item name="simple_train" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -111,11 +260,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/Algorithm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jayka\Desktop\Algorithm\my_code" />
+      <recent name="C:\Users\jayka\Desktop\Algorithm\my_code_v2\recognition" />
       <recent name="C:\Users\jayka\Desktop\Algorithm\my_code\image_processing" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -156,27 +309,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="grayscale" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="官方营算法" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_code" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_code/grayscale.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="image_processing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="官方营算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -190,6 +322,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_code/image_processing/image_processing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="官方营算法" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_code_v2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_code_v2/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,10 +396,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.simple_train" />
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.auto_grader" />
         <item itemvalue="Python.image_processing" />
-        <item itemvalue="Python.simple_train" />
-        <item itemvalue="Python.grayscale" />
       </list>
     </recent_temporary>
   </component>
@@ -264,84 +417,70 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="11" y="0" width="1260" height="687" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24305004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3280943" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.42446044" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39928058" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.41843972" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32978722" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32978722" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.4219858" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24305004" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3280943" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3280943" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4219858" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32978722" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32978722" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="a" />
+      </configuration>
+    </watches-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/custom_train/custom_train.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2110">
-          <caret line="228" lean-forward="true" selection-start-line="228" selection-end-line="228" />
-          <folding>
-            <element signature="e#484#495#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/grayedImage.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/color.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/image_processing/0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/grayscale.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/image_processing/grayedImage.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_train/custom_train.py" />
+    <entry file="file://$PROJECT_DIR$/my_code/grayedImage.png" />
+    <entry file="file://$PROJECT_DIR$/my_code/color.py" />
+    <entry file="file://$PROJECT_DIR$/my_code/image_processing/0.png" />
+    <entry file="file://$PROJECT_DIR$/my_code/grayscale.py" />
+    <entry file="file://$PROJECT_DIR$/my_code/image_processing/grayedImage.png" />
     <entry file="file://$PROJECT_DIR$/auto_grader/image/2.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -351,42 +490,11 @@
     <entry file="file://$PROJECT_DIR$/auto_grader/image/0.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/image_processing/image0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/image_processing/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="23" selection-start-column="23" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/algorithm/algorithm.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/algorithm/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/example/example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/my_code/0.png" />
+    <entry file="file://$PROJECT_DIR$/my_code/3.png" />
+    <entry file="file://$PROJECT_DIR$/my_code/image_processing/image0.png" />
+    <entry file="file://$PROJECT_DIR$/my_code/algorithm/algorithm.py" />
+    <entry file="file://$PROJECT_DIR$/my_code/algorithm/__init__.py" />
     <entry file="file://$PROJECT_DIR$/my_code/image_processing/image/1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -407,9 +515,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/image_processing/image/0.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/auto_grader/auto_grader.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -420,17 +525,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/my_code/image_processing/image/0.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_code_v2/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/my_code_v2/recognition/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/my_code_v2/scoring/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/my_code_v2/recognition/recognition.py" />
+    <entry file="file://$PROJECT_DIR$/my_code_v2/scoring/scoring.py" />
+    <entry file="file://$PROJECT_DIR$/my_code_v2/main/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/my_code_v2/main/main.py" />
+    <entry file="file://$PROJECT_DIR$/my_code_v2/main.py" />
+    <entry file="file://$PROJECT_DIR$/my_code_v2/recognition/trainer/trainer.py" />
     <entry file="file://$PROJECT_DIR$/simple_train/simple_train.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="88" selection-start-line="88" selection-end-line="88" />
+        <state relative-caret-position="264">
+          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_code/image_processing/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_code/scoring/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_code/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -439,10 +580,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_code/image_processing/image_processing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1039">
-          <caret line="15" column="48" selection-start-line="15" selection-start-column="48" selection-end-line="15" selection-end-column="48" />
+        <state relative-caret-position="544">
+          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my_code/scoring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="152" column="32" lean-forward="true" selection-start-line="152" selection-start-column="32" selection-end-line="152" selection-end-column="32" />
+          <folding>
+            <element signature="e#1#11#0" expanded="true" />
           </folding>
         </state>
       </provider>

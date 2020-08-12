@@ -7,24 +7,48 @@ from simple_train import simple_train as train
 sys.path.append("../read_picture/")
 import read_picture
 
-lst = []  # List of all Square objects, includes square color and number
+stdout = sys.stdout
+lst = []
+
 
 class Square:
-    color = int
-    number = int
-    def __init__(self, color, number=None):
+    def __init__(self, color=None, number=None, x=None, y=None):
+        if color == -1 and number == -1:
+            self.edge = True
+        else:
+            self.edge = False
         self.color = color  # RED is 1, BLUE is 2, GREEN is 3
         self.number = number
+        self.x = x
+        self.y = y
+        self.dist = 0
+        self.isExact = False
 
-def set_squares():
+    def __repr__(self):
+        if self.dist != 0:
+            return '0' + str(self.dist)
+        elif not self.edge:
+            return [None, 'R', 'G', 'B'][self.color]+str(self.number)
+        else:
+            return "ED"
+        #return str(self.x) + str(self.y)
 
+    def __eq__(self, obj):
+        return \
+            self.x == obj.x and \
+            self.y == obj.y and \
+            self.dist == obj.dist
+
+def start_recognition():
+    print("> Starting training.", end="\n\n")
     train_image, train_label = read_picture.read_image_data('../mnist_data/train-images.idx3-ubyte',
                                                             '../mnist_data/train-labels.idx1-ubyte')
-
     train_image_vector = np.reshape(train_image, (60000, 784))
-    simple_train = train.simple_train_one_num(train_image_vector[0:5000], train_label[0:5000], 10, 0.1, 2.55)
+    simple_train = train.simple_train_one_num(train_image_vector[0:5000], train_label[0:5000], 10, 0.01, 0.255)
     simple_train.train_learn()
+    print("> Training finished.", end="\n\n")
 
+    print("> Starting color recognition.", end="\n\n")
     counter_a = 0
     while counter_a < 64:
         image = img.imread("../auto_grader/image/"+str(counter_a)+".png")
@@ -63,38 +87,35 @@ def set_squares():
 
         counter_a += 1
 
-    numberLst = []
-    numCounter = 0
-    while numCounter < 64:
+    print("> Starting number recognition.", end="\n\n")
 
-        image = img.imread("image_processing/image/" + str(numCounter) + ".png")
+    predict_lst = []
+    for num_counter in range(64):
+
+        image = img.imread("image_processing/image/" + str(num_counter) + ".png")
         w, h = image.shape[:2]
 
-        counter_b = 0
-        predictLst = []
+        gray_img = []
 
-        while counter_b < 64:
-            grayImg = []
-            for i in range(w):
-                for j in range(h):
-                    pxl = float(image[i][j][0])
-                    grayImg.append(pxl)
-                    predictLst.append(grayImg)
+        for i in range(w):
+            for j in range(h):
+                pxl = float(image[i][j][0])
+                gray_img.append(pxl)
 
-            counter_b += 1
+        predict_lst.append(gray_img)
 
-        predictLst = np.array(predictLst)
-        predict = predictLst[0:63]
+    numbers = simple_train.predict(predict_lst)
 
-        numbers = simple_train.predict(predict)
-        numberLst.append(numbers[0])
+    print("> Finished image recognition.", end="\n\n")
 
-        numCounter += 1
-
-    counter_c = 0
-    while counter_c < 64:
-        lst[counter_c].number = numberLst[counter_c]
-        print(lst[counter_c].number)
-        print(lst[counter_c].color)
-        counter_c += 1
-
+    for i in range(64):
+        lst[i].number = numbers[i]
+        if lst[i].color == 1:
+            color = "R"
+        elif lst[i].color == 2:
+            color = "G"
+        else:
+            color = "B"
+        print(color + str(lst[i].number) + ", ", end="")
+        if i % 8 == 7:
+            print()
