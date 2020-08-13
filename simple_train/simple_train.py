@@ -1,4 +1,5 @@
 import numpy as np
+import statistics
 
 class simple_train_one_num:
     #Initialization, the incoming parameters are data: training data set, training label set, training tolerance value,
@@ -107,36 +108,67 @@ class simple_train_one_num:
             ans.append(self.num_kind[ans_i])
         ans = np.array(ans)
         return ans
-        
 
 
 if __name__ == "__main__":
     import sys
+
     sys.path.append("../read_picture/")
     import read_picture
-    
-    train_image, train_label = read_picture.read_image_data('../mnist_data/train-images.idx3-ubyte', '../mnist_data/train-labels.idx1-ubyte')
-    
-    train_image_vector = np.reshape(train_image, (60000, 784))
-    
-    simple_train = simple_train_one_num(train_image_vector[0:5000], train_label[0:5000], 10, 0.01, 0.255)
-    
-    simple_train.train_learn()
-    
-    #Construction test set
-    test_image_vector = train_image_vector[5001:10000]
-    test_ans = train_label[5001:10000]
-    #Calculate forecast
-    pre_ans = simple_train.predict(test_image_vector)
-    
-    #Calculate the correct rate
-    i = 0
-    true_num = 0
-    while i < len(test_image_vector):
-        if test_ans[i] ==  pre_ans[i]:
-            true_num += 1
-        i+=1
-    print(true_num/i)
-    
-    
 
+    # imports sets of images and their correct answers
+    train_image, train_label = read_picture.read_image_data('../mnist_data/train-images.idx3-ubyte',
+                                                            '../mnist_data/train-labels.idx1-ubyte')
+
+    # reformats the train image into a matrix of 60000x784
+    train_image_vector = np.reshape(train_image, (60000, 784))
+    # creates a simple_train_one_num object, and gives it the first 5000 images
+    simple_trainer = []
+    for i in range(25):
+        first_num = 2000 * i
+        last_num = 2000 * (1 + i)
+        simple_trainer.append(
+            simple_train_one_num(train_image_vector[first_num:last_num], train_label[first_num:last_num], 10, 0.1,
+                                 2.55))
+        simple_trainer[i].train_learn()
+        print("trainer ", i, " is trained")
+
+    # Construction test set
+    # creates a new variable, and gives it the next 100 images after the training set
+    test_image_vector = train_image_vector[50000:60000]
+    # creates a new set with the correct answers
+    test_ans = train_label[50000:60000]
+    # Calculate forecast
+    # guesses the numbers
+    pre_ans = []
+    for i in range(25):
+        pre_ans.append(simple_trainer[i].predict(test_image_vector))
+        print("trainer ", i, " has learned")
+
+    reset = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+    votes = reset
+    ans = []
+    max = 0
+    pos = 0
+    for k in range(len(test_image_vector)):
+        for i in range(25):
+            votes[pre_ans[i][k]] += 1
+        for j in range(10):
+            if max < votes[j]:
+                max = votes[j]
+                pos = j
+        ans.append(pos)
+        max = 0
+        pos = 0
+        # print(max)
+        # print(pos)
+        # print(votes)
+        votes = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        # print(votes)
+    i = 0
+    correct = 0
+    while i < len(test_image_vector):
+        if ans[i] == test_ans[i]:
+            correct += 1
+        i += 1
+    print("correct is ", (correct))

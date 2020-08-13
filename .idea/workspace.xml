@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="231ac1df-864d-437a-a436-6ab6398b0eaf" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/官方营算法.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/官方营算法.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/auto_grader/image/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/0.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/auto_grader/image/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/auto_grader/image/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/10.png" afterDir="false" />
@@ -68,8 +68,8 @@
       <change beforePath="$PROJECT_DIR$/auto_grader/image/7.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/7.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/auto_grader/image/8.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/auto_grader/image/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/auto_grader/image/9.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_code/algorithm/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my_code/algorithm/algorithm.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/scoring.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/example.py" beforeDir="false" afterPath="$PROJECT_DIR$/example/example.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/image_processing/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/0.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/0.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/10.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/10.png" afterDir="false" />
@@ -136,6 +136,7 @@
       <change beforePath="$PROJECT_DIR$/my_code/image_processing/image/9.png" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image/9.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_code/image_processing/image_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/image_processing/image_processing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my_code/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_code/scoring.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_code/scoring.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/simple_train/simple_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/simple_train/simple_train.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -150,7 +151,7 @@
         <entry file="file://$PROJECT_DIR$/my_code/main.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -159,10 +160,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/matplotlib/image.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3920">
+              <caret line="1477" selection-start-line="1477" selection-end-line="1477" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/my_code/image_processing/image_processing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+            <state relative-caret-position="-47">
+              <caret line="155" selection-start-line="155" selection-end-line="155" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -173,10 +183,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/my_code/scoring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="152" column="32" lean-forward="true" selection-start-line="152" selection-start-column="32" selection-end-line="152" selection-end-column="32" />
+            <state relative-caret-position="216">
+              <caret line="151" column="29" selection-start-line="151" selection-start-column="29" selection-end-line="151" selection-end-column="29" />
               <folding>
-                <element signature="e#1#11#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/example.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -198,12 +220,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/read_picture/read_picture.py" />
-        <option value="$PROJECT_DIR$/example/example.py" />
         <option value="$PROJECT_DIR$/custom_train/custom_train.py" />
         <option value="$PROJECT_DIR$/my_code/color.py" />
         <option value="$PROJECT_DIR$/my_code/grayscale.py" />
         <option value="$PROJECT_DIR$/my_code/algorithm/__init__.py" />
-        <option value="$PROJECT_DIR$/my_code/image_processing/__init__.py" />
         <option value="$PROJECT_DIR$/my_code_v2/scoring/__init__.py" />
         <option value="$PROJECT_DIR$/my_code_v2/scoring/scoring.py" />
         <option value="$PROJECT_DIR$/my_code_v2/recognition/__init__.py" />
@@ -211,16 +231,20 @@
         <option value="$PROJECT_DIR$/my_code_v2/main/main.py" />
         <option value="$PROJECT_DIR$/my_code_v2/main/__init__.py" />
         <option value="$PROJECT_DIR$/my_code_v2/main.py" />
-        <option value="$PROJECT_DIR$/simple_train/simple_train.py" />
         <option value="$PROJECT_DIR$/my_code/scoring/__init__.py" />
-        <option value="$PROJECT_DIR$/my_code/image_processing/image_processing.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/tensorflow/python/pywrap_tensorflow_internal.py" />
+        <option value="$PROJECT_DIR$/my_code/image_processing/image_processing_custom.py" />
+        <option value="$PROJECT_DIR$/my_code/image_processing/__init__.py" />
         <option value="$PROJECT_DIR$/my_code/main.py" />
+        <option value="$PROJECT_DIR$/my_code/image_processing/image_processing.py" />
         <option value="$PROJECT_DIR$/my_code/scoring.py" />
+        <option value="$PROJECT_DIR$/simple_train/simple_train.py" />
+        <option value="$PROJECT_DIR$/example/example.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-3" />
+    <option name="x" value="4" />
     <option name="width" value="1890" />
     <option name="height" value="1032" />
   </component>
@@ -252,6 +276,11 @@
               <item name="my_code" type="462c0819:PsiDirectoryNode" />
               <item name="image_processing" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Algorithm" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithm" type="462c0819:PsiDirectoryNode" />
+              <item name="simple_train" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -261,18 +290,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/anaconda3/envs/Algorithm" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/my_code/image_processing" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jayka\Desktop\Algorithm\my_code\image_processing" />
+      <recent name="C:\Users\jayka\Desktop\Algorithm\my_code" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jayka\Desktop\Algorithm\my_code\image_processing" />
+      <recent name="C:\Users\jayka\Desktop\Algorithm\mnist_data" />
       <recent name="C:\Users\jayka\Desktop\Algorithm\my_code" />
       <recent name="C:\Users\jayka\Desktop\Algorithm\my_code_v2\recognition" />
-      <recent name="C:\Users\jayka\Desktop\Algorithm\my_code\image_processing" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\jayka\Desktop\Algorithm\my_code" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -309,7 +340,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="image_processing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="官方营算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,11 +348,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/my_code/image_processing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/example" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/my_code/image_processing/image_processing.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example/example.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -396,10 +427,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.example" />
         <item itemvalue="Python.simple_train" />
         <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.auto_grader" />
-        <item itemvalue="Python.image_processing" />
       </list>
     </recent_temporary>
   </component>
@@ -425,38 +456,20 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3280943" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.41843972" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49960285" visible="true" weight="0.30496454" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39856374" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32978722" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32978722" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.4219858" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.19858156" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50039715" side_tool="true" weight="0.42190304" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32978722" />
+      <window_info anchor="bottom" id="Pylint" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24305004" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3280943" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4219858" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39893618" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32978722" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32978722" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -537,33 +550,45 @@
     <entry file="file://$PROJECT_DIR$/my_code_v2/main/main.py" />
     <entry file="file://$PROJECT_DIR$/my_code_v2/main.py" />
     <entry file="file://$PROJECT_DIR$/my_code_v2/recognition/trainer/trainer.py" />
-    <entry file="file://$PROJECT_DIR$/simple_train/simple_train.py">
+    <entry file="file://$PROJECT_DIR$/my_code/scoring/__init__.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python38-32/Lib/site-packages/tensorflow/python/pywrap_tensorflow_internal.py" />
+    <entry file="file://$PROJECT_DIR$/my_code/image_processing/image_processing_custom.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="142" selection-start-line="142" selection-end-line="142" />
+        <state relative-caret-position="-1157">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my_code/image_processing/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="30" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my_code/scoring/__init__.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/parse.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
+        <state relative-caret-position="239">
+          <caret line="364" selection-start-line="364" selection-end-line="364" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/example/example.py">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/matplotlib/image.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="3920">
+          <caret line="1477" selection-start-line="1477" selection-end-line="1477" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simple_train/simple_train.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-402">
+          <caret line="136" column="60" selection-start-line="136" selection-start-column="60" selection-end-line="136" selection-end-column="60" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -571,7 +596,17 @@
     <entry file="file://$PROJECT_DIR$/my_code/main.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -580,8 +615,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_code/image_processing/image_processing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+        <state relative-caret-position="-47">
+          <caret line="155" selection-start-line="155" selection-end-line="155" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
@@ -590,10 +625,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/my_code/scoring.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="152" column="32" lean-forward="true" selection-start-line="152" selection-start-column="32" selection-end-line="152" selection-end-column="32" />
+        <state relative-caret-position="216">
+          <caret line="151" column="29" selection-start-line="151" selection-start-column="29" selection-end-line="151" selection-end-column="29" />
           <folding>
-            <element signature="e#1#11#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>

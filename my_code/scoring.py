@@ -32,6 +32,7 @@ class Move:
 def start_scoring():
     global pairs_list
     grid = [[image_processing.Square() for i in range(10)] for j in range(10)]
+    grid2 = [[image_processing.Square() for i in range(10)] for j in range(10)]
 
     lst_counter = 0
     for i in range(10):
@@ -46,6 +47,37 @@ def start_scoring():
                     grid[i][j].x = j
                     grid[i][j].y = i
                     lst_counter += 1
+
+    lst_counter = 0
+    for i in range(10):
+        for j in range(10):
+            if i == 0 or i == 9:
+                grid2[i][j] = image_processing.Square(-1, -1, j, i)
+            else:
+                if j == 0 or j == 9:
+                    grid2[i][j] = image_processing.Square(-1, -1, j, i)
+                else:
+                    grid2[i][j] = image_processing.lst2[lst_counter]
+                    grid2[i][j].x = j
+                    grid2[i][j].y = i
+                    lst_counter += 1
+
+    def verify_grid():
+        check_list = []
+        watch_list = []
+        for i in range(1, 9):
+            for j in range(1, 9):
+                check_list.append(grid[i][j])
+                for k in range(1, 9):
+                    for l in range(1, 9):
+                        if matches(grid[i][j], grid[k][l]):
+                            check_list.append(grid[k][l])
+                if len(check_list) % 2 != 0:
+                    for p in range(len(check_list)):
+                        watch_list.append(check_list[p])
+        for i in range(len(watch_list)):
+            if watch_list[i].number != grid2[watch_list[i].y][watch_list[i].x].number:
+                watch_list[i].number = grid2[watch_list[i].y][watch_list[i].x].number
 
     def is_obstacle(obj1, x, y):
         if not 10 > x >= 0 or not 10 > y >= 0:
@@ -108,8 +140,15 @@ def start_scoring():
                                 nextCheckList.append(obj2)
                 dist += 1
 
+    current_move = 1
     def score():
         if len(pairs_list) == 0:
+            last_len = len(pairs_list)
+            for i in range(1, 9):
+                for j in range(1, 9):
+                    search(j, i)
+            if not last_len == len(pairs_list):
+                return
             what_is_left = []
             what_is_not_sure = []
             for y in range(1, 9):
@@ -133,7 +172,7 @@ def start_scoring():
                                 grid[move.y1][move.x1].number = result[0][1]
                                 grid[move.y1][move.x1].color = result[0][0]+1
                                 grid[move.y2][move.x2].number = result[1][1]
-                                grid[move.y2][move.x2].color = result[0][1]+1
+                                grid[move.y2][move.x2].color = result[1][0]+1
                                 grid[move.y1][move.x1].isExact = True
                                 grid[move.y2][move.x2].isExact = True
                                 return False
@@ -159,6 +198,7 @@ def start_scoring():
                 print(grid[i][j], file=image_processing.stdout, end=" ")
             print(file=image_processing.stdout)
 
+    verify_grid()
     while not is_empty():
         for i in range(1, 9):
             for j in range(1, 9):
@@ -168,3 +208,4 @@ def start_scoring():
 
         score()
         pairs_list.clear()
+        current_move += 1
